@@ -30,47 +30,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>About Me 📌</h1>
+<h1 align="center">Hi, I'm Islam Sulaiman 👋</h1>
 
-- 👋 I am Islam Sulaiman
-- 🌱 I am currently focusing on learning coding professionally
-- 😄 Pronouns: she/her
-
-<br />
-
-<h2 align="center">Quick Overview 📈</h2>
-  
-  <p align = "center">
- 
-</p>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=IslamSulaiman4&count_private=true&theme=dracula&hide_border=true" alt = "IslamSulaiman4's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=IslamSulaiman4&count_private=true&theme=dracula&hide_border=true" alt = "IslamSulaiman4's Rating" width = 400 >
-
-</p>
-
-<p align = "center">
-
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=IslamSulaiman4
-&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "IslamSulaiman4
-'s Languages/Frameworks" width = 400 />
-</p>
-
-
-<br />
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/IslamSulaiman4/count.svg"></img>
-</div>
-
-<br /><br />
-<h2 align="center">Let's Connect 😎</h2>
 <p align="center">
-  <a href = "mailto:islam2001shrif@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "http://linkedin.com/in/islam-sulaiman-4b5795195"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
- 
+  🌸 Frontend Developer | React Enthusiast | Lifelong Learner  
 </p>
+
+---
+
+### 🧕 About Me
+
+- 👩‍💻 I’m a Frontend Developer passionate about building interactive, user-friendly web applications.
+- 🎯 I enjoy bringing designs to life with clean, efficient, and accessible code.
+- 🌱 Currently enrolled in the Udacity Frontend Nanodegree (by Launchpad Palestine & Spark).
+- 📚 I also have experience working with ASP.NET and C#.
+
+---
+
+### 💻 Technologies & Tools
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+
+---
+
+### 📌 Featured Projects
+
+- 🛒 **[E-commerce React App](https://github.com/IslamSulaiman4/E-commerce-react-app)**  
+  A dynamic, modern e-commerce website built with React. Includes product listings, filters, and cart features.
+
+- 🍽️ **[Grand Restaurant](https://github.com/IslamSulaiman4/Grand-Restaurant)**  
+  A responsive website built with HTML, CSS, and JavaScript. Designed for a modern restaurant brand.
+
+- 🏯 **[Osaka](https://github.com/IslamSulaiman4/Osaka)**  
+  Stylish landing page project showcasing CSS layout skills and mo
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
