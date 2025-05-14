@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - 🍽️ **[Grand Restaurant](https://github.com/IslamSulaiman4/Grand-Restaurant-wilma)**  
   A responsive website built with HTML, CSS, and JavaScript. Designed for a modern restaurant brand.
 
-- 🏯 **[Portfolio](https://github.com/IslamSulaiman4/Portfolio)**  
+- 🎨 **[Portfolio](https://github.com/IslamSulaiman4/Portfolio)**  
   Stylish portfolio site showcasing built with HTML, CSS, and JavaScript.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
